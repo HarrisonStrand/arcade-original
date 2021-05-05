@@ -137,12 +137,12 @@ export var state = {
   scoreCount: 0,
   numberOfObstacles: 5,
   sizeOfObstacles: 8, // NO HIGHER THAN 8!! MAYBE DO RANDOM??
-  numberOfPoints: 2,
+  numberOfPoints: 8,
   pointSpread: 2, // EVEN NUMBERS ONLY! HIGHER IS MORE SPREAD AND LESS POINTS
   numberOfPowerUps: 1,
   numberOfKeys: 1,
   keysToCollect: 1,
-  numberOfEnemies: 0,
+  numberOfEnemies: 2,
   levelIndicator: 1,
   livesLeft: 3,
   enemySpeed: .5,
