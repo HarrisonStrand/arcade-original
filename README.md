@@ -6,9 +6,10 @@
 
 <div align="center">
 <img src="https://github.com/HarrisonStrand.png" width="200px" height="auto" >
+<img src="https://github.com/GarrettBrown-dev.png" width="200px" height="auto" >
 </div>
 <h3 align="center">Arcade Page Project, 3-28-2021</h3>
-<h4 align="center"> By Harrison Strand</h4>
+<h4 align="center"> By Harrison Strand & Garret Brown</h4>
 
 ## Description
 
@@ -177,4 +178,4 @@ If any further errors or bugs occur with installation, please email me, <harriso
 
 This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Copyright (c) 2021 Harrison Strand<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q_3EVY7j95tTyemJwWxMR7jwvUK7gPe0_w&usqp=CAU" width="2%" height="auto">
+Copyright (c) 2021 Harrison Strand & Garrett Brown<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Q_3EVY7j95tTyemJwWxMR7jwvUK7gPe0_w&usqp=CAU" width="2%" height="auto">
